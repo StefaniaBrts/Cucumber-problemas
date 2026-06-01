@@ -1,0 +1,16 @@
+{
+  "name": "cucumber-problemas",
+  "version": "1.0.0",
+  "description": "SOLID principles activity",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": ["solid", "typescript"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
